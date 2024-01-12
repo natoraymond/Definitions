@@ -44,7 +44,11 @@ Allows both cloud-hosted and self-hosted options.
 
 ## The git rebase command allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together. Typically, you would use git rebase to: Edit previous commit messages.
 
-## git cherry-pick in git means choosing a commit from one branch and applying it to another branch. This is in contrast with other ways such as merge and rebases which normally apply many commits into another branch. git cherry-pick is just like rebasing, an advanced concept and also a powerful command.
+##  Create git rebase command
+
+## git cherry-pick in git means choosing a commit from one branch and applying it to another branch. This is in contrast with other ways such as merge and rebases which normally apply many commits into another branch. git cherry-pick is just like rebasing, an advanced concept and also a powerful command. 
+
+## Command was done on cherry-pick
 
 - In simple terms, git cherry-pick is a Git command that allows you to copy a specific commit from one branch and apply it onto another branch. It's like picking a commit from one branch and placing it onto another branch.
 
